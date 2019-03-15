@@ -1,13 +1,13 @@
 {
-  "main.css": "/eStoc/static/css/main.f714bf5d.chunk.css",
-  "main.js": "/eStoc/static/js/main.5e89f631.chunk.js",
-  "main.js.map": "/eStoc/static/js/main.5e89f631.chunk.js.map",
+  "main.css": "/eStoc/static/css/main.ad889c63.chunk.css",
+  "main.js": "/eStoc/static/js/main.d3e36cda.chunk.js",
+  "main.js.map": "/eStoc/static/js/main.d3e36cda.chunk.js.map",
   "static/js/1.dc8e5650.chunk.js": "/eStoc/static/js/1.dc8e5650.chunk.js",
   "static/js/1.dc8e5650.chunk.js.map": "/eStoc/static/js/1.dc8e5650.chunk.js.map",
   "runtime~main.js": "/eStoc/static/js/runtime~main.0408d09a.js",
   "runtime~main.js.map": "/eStoc/static/js/runtime~main.0408d09a.js.map",
-  "static/css/main.f714bf5d.chunk.css.map": "/eStoc/static/css/main.f714bf5d.chunk.css.map",
+  "static/css/main.ad889c63.chunk.css.map": "/eStoc/static/css/main.ad889c63.chunk.css.map",
   "index.html": "/eStoc/index.html",
-  "precache-manifest.2b799f8ce81c744f8f839150003cb2c6.js": "/eStoc/precache-manifest.2b799f8ce81c744f8f839150003cb2c6.js",
+  "precache-manifest.bddc4ca67426e9cf6bdd0a77191af32e.js": "/eStoc/precache-manifest.bddc4ca67426e9cf6bdd0a77191af32e.js",
   "service-worker.js": "/eStoc/service-worker.js"
 }
