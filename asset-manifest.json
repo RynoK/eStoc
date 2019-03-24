@@ -1,13 +1,13 @@
 {
-  "main.css": "/eStoc/static/css/main.ad889c63.chunk.css",
-  "main.js": "/eStoc/static/js/main.d3e36cda.chunk.js",
-  "main.js.map": "/eStoc/static/js/main.d3e36cda.chunk.js.map",
-  "static/js/1.dc8e5650.chunk.js": "/eStoc/static/js/1.dc8e5650.chunk.js",
-  "static/js/1.dc8e5650.chunk.js.map": "/eStoc/static/js/1.dc8e5650.chunk.js.map",
+  "main.css": "/eStoc/static/css/main.0a9cea2f.chunk.css",
+  "main.js": "/eStoc/static/js/main.5879bc05.chunk.js",
+  "main.js.map": "/eStoc/static/js/main.5879bc05.chunk.js.map",
+  "static/js/1.aa03b1e9.chunk.js": "/eStoc/static/js/1.aa03b1e9.chunk.js",
+  "static/js/1.aa03b1e9.chunk.js.map": "/eStoc/static/js/1.aa03b1e9.chunk.js.map",
   "runtime~main.js": "/eStoc/static/js/runtime~main.0408d09a.js",
   "runtime~main.js.map": "/eStoc/static/js/runtime~main.0408d09a.js.map",
-  "static/css/main.ad889c63.chunk.css.map": "/eStoc/static/css/main.ad889c63.chunk.css.map",
+  "static/css/main.0a9cea2f.chunk.css.map": "/eStoc/static/css/main.0a9cea2f.chunk.css.map",
   "index.html": "/eStoc/index.html",
-  "precache-manifest.bddc4ca67426e9cf6bdd0a77191af32e.js": "/eStoc/precache-manifest.bddc4ca67426e9cf6bdd0a77191af32e.js",
+  "precache-manifest.4fab12fdbe407fdd0630dff59fd15a37.js": "/eStoc/precache-manifest.4fab12fdbe407fdd0630dff59fd15a37.js",
   "service-worker.js": "/eStoc/service-worker.js"
 }
